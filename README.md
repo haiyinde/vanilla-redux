@@ -1,4 +1,4 @@
-# Vanilla Redux
+# Vanilla Redux 
 
 Learning Vanilla-Redux and React-Redux
 
